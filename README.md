@@ -19,6 +19,6 @@ JDK (Java Development Toolkit)
 Java IDE: JetBrains 14.1.5
 Gradle
 Maven
-Git 2.6.1
+Git 2.6.3
 Heroku Toolbelt 3.30.3
 ```
