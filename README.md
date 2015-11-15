@@ -5,8 +5,8 @@ A basic heroku app for deploying <a href="https://github.com/ashumeow/functionde
 Steps for deploying the app:
 
 $heroku login
-$git clone <github repo>
-$cd <github repo folder>
+$git clone https://github.com/ashumeow/heroku-load.git
+$cd heroku-load
 $heroku create
 $git push heroku master
 $heroku ps:scale web=1
