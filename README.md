@@ -12,3 +12,13 @@ $git push heroku master
 $heroku ps:scale web=1
 $heroku open
 ```
+```
+Requirements:
+
+JDK (Java Development Toolkit)
+Java IDE: JetBrains 14.1.5
+Gradle
+Maven
+Git 2.6.1
+Heroku Toolbelt 3.30.3
+```
